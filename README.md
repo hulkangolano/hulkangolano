@@ -3,7 +3,7 @@
 #### Informações
 - 👋 Oi eu sou @hulkangolano
 - 👀 I Eu estou interessado em programação no java scripht
-- 🌱 I’m currently learning a como usar o Github
+- 🌱 estou aprendendo a como usar o Github
 - 💞️  Este e meu email caso queira entra em contato
 - francisco.anjos@escola.pr.gov.br
 
